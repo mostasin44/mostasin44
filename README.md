@@ -1,10 +1,6 @@
 <h1 align="center">🚀 Sheikh Md Mostasin Ahammed</h1>
 <h3 align="center">Automation Engineer | Researcher in Swarm Intelligence & Sustainable Energy</h3>
 
-<p align="center">
-  <a href=" ">< img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a >
-</p >
-
 ---
 
 ## 👋 About Me
@@ -79,19 +75,10 @@ My goal is to design **future-ready autonomous technologies** that improve **eff
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  < img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%">
-  < img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="48%">
-</p >
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: *(Add your profile link)*
-- 📧 Email: *(Add professional email)*
+- 📧 Email: *(mostasin44@njtech.edu.cn)*
 
 ---
 
