@@ -2,7 +2,7 @@
 <h3 align="center">Automation Engineering Student | Embedded Systems | Robotics | Intelligent Control</h3>
 
 <p align="center">
-  Nanjing Tech University • PhD Aspirant • Research-Oriented Engineering Profile
+  Nanjing Tech University • Research-Oriented Engineering Profile
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 I am a **6th-semester undergraduate student in Automation Engineering** at **Nanjing Tech University**, College of Electrical Engineering and Control Science.
 
-My academic interests are centered on **embedded systems, robotics, control, industrial automation, and intelligent engineering applications**. I am especially interested in developing practical hardware-software systems that combine **sensing, computation, and control** for real-world engineering problems.
+My academic interests focus on **embedded systems, robotics, control, industrial automation, and intelligent engineering applications**. I am particularly interested in developing practical hardware-software systems that integrate **sensing, computation, and control** for real-world engineering problems.
 
-I am currently preparing for **fully funded graduate study**, with long-term research goals in **robotics, embedded intelligence, autonomous systems, and sustainable engineering technologies**.
+I am currently preparing for **fully funded graduate study in the United States**, with long-term research interests in **robotics, embedded intelligence, autonomous systems, and sustainable engineering technologies**.
 
 ---
 
@@ -56,19 +56,19 @@ I am currently preparing for **fully funded graduate study**, with long-term res
 
 ## Technical Skills
 
-**Programming:**  
+**Programming**  
 C, Python, MATLAB
 
-**Embedded & Control:**  
+**Embedded Systems & Control**  
 STM32, USART/UART, PID Control, Sensor Integration, Control Systems Design
 
-**Industrial Automation:**  
-PLC Programming, **TIA Portal V14**, **Siemens S7-1200**
+**Industrial Automation**  
+PLC Programming, TIA Portal V14, Siemens S7-1200
 
-**Robotics & Intelligent Systems:**  
+**Robotics & Intelligent Systems**  
 Robotics, Computer Vision, Reinforcement Learning, Autonomous Systems, Swarm Robotics
 
-**Tools:**  
+**Tools**  
 STM32CubeIDE, Keil uVision, MATLAB/Simulink, ROS, ROS 2, Gazebo, Git, GitHub
 
 ---
@@ -97,9 +97,17 @@ Designed and implemented a multifunction embedded clock system using **STM32F103
 
 ---
 
+## Professional Experience & Training
+
+- Embedded systems internship project using STM32
+- PLC programming and industrial automation practice
+- Practical training in electrical systems and installation fundamentals
+
+---
+
 ## Professional Goal
 
-My goal is to pursue advanced research in **embedded systems, robotics, intelligent control, and sustainable engineering**, and to contribute to research groups working on impactful interdisciplinary technologies.
+My goal is to pursue advanced research in **embedded systems, robotics, intelligent control, and sustainable engineering**, and to contribute to impactful interdisciplinary research through graduate study.
 
 ---
 
