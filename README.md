@@ -1,87 +1,114 @@
-<h1 align="center">🚀 Sheikh Md Mostasin Ahammed</h1>
-<h3 align="center">Automation Engineer | Researcher in Swarm Intelligence & Sustainable Energy</h3>
-
----
-
-## 👋 About Me
-
-Hi! I'm **Sheikh Mostasin Ahammed**, an undergraduate **Automation Engineering student at Nanjing Tech University**.  
-I am passionate about **intelligent autonomous systems, swarm robotics, and advanced energy storage solutions**.
-
-My goal is to design **future-ready autonomous technologies** that improve **efficiency, sustainability, and real-world impact**.
-
----
-
-## 🔬 Research Focus & Interests
-
-- 🐜 **Swarm Intelligence & Robotics**  
-  Designing decentralized coordination algorithms and multi-agent autonomous systems.
-
-- 🔋 **Energy Storage & Sustainability**  
-  Research on **Lithium-ion Battery Management Systems (BMS)** for renewable energy integration. *(Ongoing Research)*
-
-- 🎛️ **Control Systems**  
-  Robust and adaptive control architectures for autonomous applications.
-
----
-
-## 🛠️ Technical Tech Stack
-
-### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🤖 Robotics & Simulation
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-8A2BE2?style=for-the-badge)
-
-### ⚙️ Automation & Embedded Systems
-![PLC](https://img.shields.io/badge/PLC-003366?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### 🎨 Design & Tools
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge)
-![Keil](https://img.shields.io/badge/Keil-0091BD?style=for-the-badge)
-![SSCOM](https://img.shields.io/badge/SSCOM-555555?style=for-the-badge)
-
----
-
-## 🔧 Professional Training & Projects
-
-### ⌚ Embedded System Project
-**Multi-feature Digital Watch using STM32F103RBT6**  
-- Remote & PC-controlled functionality  
-- Real-time display system  
-- Serial communication integration  
-
-### 🏭 Industrial Automation Internship
-- PLC Programming & Industrial Control Systems  
-- Hands-on experience in automation logic design  
-
-### ⚡ Electrical Engineering Certification
-- **Residential Electrical Wiring (3-Story Building Projects)**  
-- NTVQF **Level 2 & Level 4** Certified  
-
----
-
-## 📈 Research & Engineering Goals
-
-- Build **large-scale swarm robotic systems**
-- Develop **high-efficiency BMS solutions**
-- Design **autonomous control architectures**
-- Contribute to **open-source robotics & automation research**
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: *(Add your profile link)*
-- 📧 Email: *(mostasin44@njtech.edu.cn)*
-
----
+<h1 align="center">Sheikh Md Mostasin Ahammed</h1>
+<h3 align="center">Automation Engineering Student | Embedded Systems | Robotics | Intelligent Control</h3>
 
 <p align="center">
-  🚀 *"Engineering Intelligent Systems for a Smarter & Sustainable Future"*
-</p >
+  Nanjing Tech University • PhD Aspirant • Research-Oriented Engineering Profile
+</p>
+
+<p align="center">
+  <a href="https://github.com/mostasin44">GitHub</a> •
+  <a href="https://www.linkedin.com/in/sheikh-md-mostasin-ahammed-5907973a9/">LinkedIn</a> •
+  <a href="https://orcid.org/0009-0005-3411-2515">ORCID</a>
+</p>
+
+---
+
+## About Me
+
+I am a **6th-semester undergraduate student in Automation Engineering** at **Nanjing Tech University**, College of Electrical Engineering and Control Science.
+
+My academic interests are centered on **embedded systems, robotics, control, industrial automation, and intelligent engineering applications**. I am especially interested in developing practical hardware-software systems that combine **sensing, computation, and control** for real-world engineering problems.
+
+I am currently preparing for **fully funded graduate study**, with long-term research goals in **robotics, embedded intelligence, autonomous systems, and sustainable engineering technologies**.
+
+---
+
+## Education
+
+### Nanjing Tech University
+**B.Eng. in Automation**  
+**2023 – Present**
+
+- Current Semester: **6th Semester**
+- CGPA: **3.71 / 4.00** *(up to 5th semester)*
+- Nanjing Government Scholarship
+- Jiangsu Government Scholarship
+
+### Dhaka Polytechnic Institute
+**Diploma in Electrical Engineering**
+
+- CGPA: **3.61 / 4.00**
+
+---
+
+## Research Interests
+
+- Embedded Systems  
+- Robotics and Autonomous Systems  
+- Intelligent Control  
+- Industrial Automation  
+- Sensor Fusion and Perception  
+- Reinforcement Learning  
+- Human-Robot Interaction  
+- Sustainable Engineering Applications  
+
+---
+
+## Technical Skills
+
+**Programming:**  
+C, Python, MATLAB
+
+**Embedded & Control:**  
+STM32, USART/UART, PID Control, Sensor Integration, Control Systems Design
+
+**Industrial Automation:**  
+PLC Programming, **TIA Portal V14**, **Siemens S7-1200**
+
+**Robotics & Intelligent Systems:**  
+Robotics, Computer Vision, Reinforcement Learning, Autonomous Systems, Swarm Robotics
+
+**Tools:**  
+STM32CubeIDE, Keil uVision, MATLAB/Simulink, ROS, ROS 2, Gazebo, Git, GitHub
+
+---
+
+## Selected Project
+
+### STM32 Multifunction Digital Clock System
+Designed and implemented a multifunction embedded clock system using **STM32F103**, including:
+
+- LCD-based real-time display
+- time regulation
+- alarm setting
+- stopwatch / race clock mode
+- infrared control
+- USART-based PC communication
+
+**Repository:**  
+[Digital-Clock](https://github.com/mostasin44/Digital-Clock)
+
+---
+
+## Academic Work
+
+- **Manuscript under review:** *Material Surface Modification for Energy Storage Devices*  
+- **Course/review paper:** *Capacitive Sensing in Human-Robot Interaction*
+
+---
+
+## Professional Goal
+
+My goal is to pursue advanced research in **embedded systems, robotics, intelligent control, and sustainable engineering**, and to contribute to research groups working on impactful interdisciplinary technologies.
+
+---
+
+## Contact
+
+- **Email:** mostasin44@njtech.edu.cn  
+- **LinkedIn:** [Sheikh Md Mostasin Ahammed](https://www.linkedin.com/in/sheikh-md-mostasin-ahammed-5907973a9/)  
+- **ORCID:** [0009-0005-3411-2515](https://orcid.org/0009-0005-3411-2515)
+
+---
+
+<p align="center"><i>Building intelligent engineering systems for a smarter and more sustainable future.</i></p>
