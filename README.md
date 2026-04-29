@@ -110,6 +110,8 @@ Designed and implemented a multifunction embedded clock system using **STM32F103
 My goal is to pursue advanced research in **embedded systems, robotics, intelligent control, and sustainable engineering**, and to contribute to impactful interdisciplinary research through graduate study.
 
 ---
+[![Tokscale Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/<username>)
+---
 
 ## Contact
 
